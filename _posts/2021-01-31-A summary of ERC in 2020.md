@@ -2,7 +2,7 @@
 layout:		post
 title:      Emotion Recognition in Conversation2020模型总结
 subtitle:	
-date:       2020-10-16
+date:       2021-01-31
 author:     xuelin
 header-img: img/post-web.jpg
 catalog:    true
