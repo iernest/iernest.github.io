@@ -14,8 +14,6 @@ tags:
 
 #### 模型概述
 
-<div class="scrollable-table-wrapper" markdown="block">
-
 |                            Title                             | 模型        | 会议       | 问题                                                 | 模型要点                                                     | 方法                 |
 | :----------------------------------------------------------: | ----------- | ---------- | ---------------------------------------------------- | ------------------------------------------------------------ | -------------------- |
 | Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition | SumAggGIN   | COLING2020 | 短语级别的语义单元可以提供话题信息，但是之前没有考虑 | 两阶段图推理网络捕获全局和局部信息；用异构图将短语级别的信息和句子级别的信息融合 | GNN                  |
@@ -30,11 +28,8 @@ tags:
 | An Iterative Emotion Interaction Network for Emotion Recognition in Conversations | IERC        | COLING2020 | Gold Label可以提高预测效果，但是不能引入             | 迭代的方式变相引入“假”的Gold Label                           | 迭代                 |
 | DialogueRNN: An Attentive RNN for Emotion Detection in Conversations | DialogueRNN | AAAI2019   | 没有考虑说话人的差异                                 | 全局GRU建模上下文；Party GRU建模说话人；情绪GRU建模情绪      | RNN                  |
 
-{:.table-scrollable}
-</div>
 
 #### 模型要点
-<div class="scrollable-table-wrapper" markdown="block">
 
 |                            Title                             | 模型        | 方法                 | 说话人的差异               | 听众的反应                 | 多方对话                 | 动态上下文              | 情感转换 |
 | :----------------------------------------------------------: | ----------- | -------------------- | -------------------------- | -------------------------- | ------------------------ | ----------------------- | -------- |
@@ -49,7 +44,4 @@ tags:
 | DialogXL: All-in-One XLNet for Multi-Party Conversation Emotion Recognition | DialogXL    | 预训练语言模型       | Mask的方式                 | Mask的方式                 | 支持                     | Memory Bank             |          |
 | An Iterative Emotion Interaction Network for Emotion Recognition in Conversations | IERC        | 迭代                 |                            |                            | 支持，没有考虑说话人     | 不支持                  |          |
 | DialogueRNN: An Attentive RNN for Emotion Detection in Conversations | DialogueRNN | RNN                  | 单独GRU                    |                            | 支持                     | 多种GRU                 |          |
-
-{:.table-scrollable}
-</div>
 
