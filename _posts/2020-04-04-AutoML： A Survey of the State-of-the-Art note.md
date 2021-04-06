@@ -14,7 +14,7 @@ tags:
 
 # AutoML: A Survey of the State-of-the-Art
 
-[He X, Zhao K, Chu X. AutoML: A Survey of the State-of-the-Art[J]](https://arxiv.org/abs/1908.00709)
+[He X, Zhao K, Chu X. AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709)
 
 ### 1. 介绍
 
