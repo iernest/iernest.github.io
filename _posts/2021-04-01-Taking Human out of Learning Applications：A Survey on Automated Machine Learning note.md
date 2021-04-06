@@ -12,7 +12,7 @@ tags:
 
 # Taking Human out of Learning Applications: A Survey on Automated Machine Learning
 
-[Yao Q, Wang M, Chen Y, et al. Taking human out of learning applications: A survey on automated machine learning[J]. arXiv preprint arXiv:1810.13306, 2018.](https://arxiv.org/abs/1810.13306)
+[Yao Q, Wang M, Chen Y, et al. Taking human out of learning applications: A survey on automated machine learning](https://arxiv.org/abs/1810.13306)
 
 This is a review article on AutoML from the 4Paradigm company.
 
