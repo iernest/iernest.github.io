@@ -2,7 +2,7 @@
 layout:		post
 title:      Taking Human out of Learning Applications：A Survey on Automated Machine Learning阅读笔记
 subtitle:	
-date:       2020-08-05
+date:       2021-04-01
 author:     xuelin
 header-img: img/post-web.jpg
 catalog:    true
