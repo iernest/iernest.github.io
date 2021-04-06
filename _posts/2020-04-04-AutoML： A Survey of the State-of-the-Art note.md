@@ -10,6 +10,7 @@ tags:
     - AutoML
     - NAS
     - HPO
+typora-root-url: ..
 ---
 
 # AutoML: A Survey of the State-of-the-Art
@@ -21,7 +22,7 @@ tags:
 文章着重介绍了两个方面：一是自动机器学习的pipeline过程总结，主要包括数据准备（Data Preparation）、特征工程（Feature Engineering）、模型生成（Model Generation）和模型评估（Model Evaluation）；二是细致地总结和比较各种主流的神经架构搜索算法（Neural Architecture Search algorithm, NAS），现有主流的NAS算法有四种类型：随机搜索（Random Search, RS）、强化学习（Reinforcement Learning, RL）、进化算法（Evolutionary Algorithm, EA）和基于梯度下降（Gradient Descent, GD）的算法。
 
 AutoML Pipeline 框架图
-![AutoML Pipeline 框架图](../assets/15961859212238.jpg)
+![AutoML Pipeline 框架图](/assets/15961859212238.jpg)
 
 越来越多关于AutoML的研究在逐渐展开，其中大部分的研究主要关注神经架构搜索算法（Neural Architecture Search algorithm, NAS）。NAS算法旨在通过从预定义的搜索空间中选择和组合不同的基本组件来生成健壮且性能良好的神经架构。本文将从两个方面介绍ANS算法，一是模型结构，二是超参优化（Hyperparameter Optimization, HPO）。
 
