@@ -2,7 +2,7 @@
 layout:		post
 title:      AutoML：A Survey of the State-of-the-Art阅读笔记
 subtitle:	
-date:       2020-07-31
+date:       2021-04-04
 author:     xuelin
 header-img: img/post-web.jpg
 catalog:    true
