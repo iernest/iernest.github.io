@@ -13,6 +13,7 @@ tags:
 typora-root-url: ..
 ---
 
+### Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations
 [Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations](https://dl.acm.org/doi/pdf/10.1145/3394171.3413949?casa_token=CgDjp2hokAEAAAAA:W-GCXBkMztp74bOyjSDQQM0dmeNOU-XKhN336SmJBT_rbhX0PAv5JGSVq_0yD8LU3DNb7uyqPoQk)
 
 - Motivation
