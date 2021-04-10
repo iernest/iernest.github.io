@@ -42,4 +42,4 @@ Result
 
 ### Reference
 
-[香港科技大学 | 面向情感识别的多模态端到端稀疏模型](https://hub.baai.ac.cn/view/7044)
+[面向情感识别的多模态端到端稀疏模型](https://hub.baai.ac.cn/view/7044)
