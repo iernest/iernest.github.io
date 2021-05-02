@@ -59,9 +59,9 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    # 是否开启Gitalk评论
-  clientID: 1675c22923c74e399e8e                            #生成的clientID
-  clientSecret: 9d7a97297ac73a483211f95a15197d8f53039a80    #生成的clientSecret
+  enable: true    # 是否开启Gitalk评论
+  clientID: d6c59a4b208d63353837                            #生成的clientID
+  clientSecret: e4f7897ff768875dc5ddb4374a448128efafe719    #生成的clientSecret
   repo: iernest.github.io    #仓库名称
   owner: iernest    # github用户名
   admin: iernest
