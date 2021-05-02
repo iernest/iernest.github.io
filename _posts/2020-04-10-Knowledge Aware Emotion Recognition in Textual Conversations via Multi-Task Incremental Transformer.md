@@ -41,5 +41,5 @@ Result
 
 ![image-20210410095712009](/modelimg/image-20210410095712009.png)
 
-[Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition](https://www.aclweb.org/anthology/2020.coling-main.367.pdf)
+
 
