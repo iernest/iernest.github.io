@@ -10,7 +10,7 @@ tags:
     - NLP
     - ERC
     - Multimodal
-    - NAACL 2021
+    - NAACL2021
 typora-root-url: ..
 ---
 
