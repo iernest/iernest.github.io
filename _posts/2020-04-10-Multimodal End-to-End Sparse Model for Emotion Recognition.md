@@ -1,6 +1,6 @@
 ---
 layout:		post
-title:      Emotion recognition in conversations in NAACL 2021
+title:      Multimodal End-to-End Sparse Model for Emotion Recognition
 subtitle:	
 date:       2021-04-10
 author:     xuelin
@@ -10,6 +10,7 @@ tags:
     - NLP
     - ERC
     - Multimodal
+    - NAACL 2021
 typora-root-url: ..
 ---
 
