@@ -10,7 +10,7 @@ tags:
     - NLP
     - ERC
     - Multimodal
-    - COLING 2020
+    - COLING2020
 typora-root-url: ..
 ---
 
