@@ -10,7 +10,7 @@ tags:
     - NLP
     - ERC
     - Multimodal
-    - ACM MM 2020
+    - ACMMM2020
 typora-root-url: ..
 ---
 
