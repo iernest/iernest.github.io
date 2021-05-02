@@ -2,7 +2,7 @@
 layout:		post
 title:      Semi-supervised Multi-modal Emotion Recognition with Cross-Modal Distribution Matching
 subtitle:	
-date:       2021-04-10
+date:       2021-04-06
 author:     xuelin
 header-img: img/post-web.jpg
 catalog:    true
@@ -10,7 +10,7 @@ tags:
     - NLP
     - ERC
     - Multimodal
-    - ACM MM 2020
+    - ACMMM2020
 typora-root-url: ..
 ---
 
