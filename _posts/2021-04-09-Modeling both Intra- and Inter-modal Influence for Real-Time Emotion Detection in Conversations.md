@@ -2,7 +2,7 @@
 layout:		post
 title:      Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations
 subtitle:	
-date:       2021-04-10
+date:       2021-04-09
 author:     xuelin
 header-img: img/post-web.jpg
 catalog:    true
